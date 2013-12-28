@@ -6,7 +6,7 @@ date: 2013-12-28 18:26
 
 I'm writing this as I should write my thesis, which is exactly why I picked this subject to talk about today. **Motivation**. Different people have different expectations, goals and ways to achieve them, but what drives them is important. Sometimes, though, there's nothing to lead us to victory and to success. How to deal with such a pickle?
 
-Some of us thrive in doing stuff that is hard, myself included. Whenever I feel challenged by a particular issue, I feel like I absolutely have to deal with it, even better if I do it myself. Even in the tech aspect of my life that was always the case. Windows? No way, I tried all the Linuxes there were in my teenage years and still use Ubuntu to this day. WordPress? You're reading a [Jekyll](http://jekyllrb.com) blog. Same goes with gaming, cooking, even reading books harder that they should be. Somehow, though, I can't make myself to write that thesis. There are severals reasons.
+Some of us thrive in doing stuff that is hard, myself included. Whenever I feel challenged by a particular issue, I feel like I absolutely have to deal with it, even better if I do it myself. Even in the tech aspect of my life that was always the case. Windows? No way, I tried all the Linuxes there were in my teenage years and still use Ubuntu to this day. WordPress? You're reading a [Jekyll](http://jekyllrb.com) blog. Same goes with gaming, cooking, even reading books harder that they should be. Somehow, though, I can't make myself to write that thesis. There are several reasons.
 
 ### Distractions
 
