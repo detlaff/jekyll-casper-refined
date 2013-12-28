@@ -18,4 +18,4 @@ Like many other websites, my blog uses log files to help learn about when, from 
 * Referring and exit pages
 * Number of clicks
 
-All of this information is not linked to anything that is personally identifiable and hosted on my own server. To this end, I am using an open-source analytics platform called [Piwik](http://piwik.org), ensuring the data stays with me and away from <s>Google</s> Skynet.
+All of this information is not linked to anything that is personally identifiable and hosted on a separate server. To this end, I am using an open-source analytics platform called [Piwik](http://piwik.org), ensuring the data stays with me and away from <s>Google</s> Skynet.
