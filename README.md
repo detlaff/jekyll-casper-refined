@@ -9,4 +9,4 @@ All things inside `_posts/` are my copyright. You may not reuse anything therein
 
 TL;DR you can use **most** of this repo as you wish, don't go crazy.
 
-Contact me at [@KubaLojewski](https://twitter.com/KubaLojewski) :wave:
+Contact me [@KubaLojewski](https://twitter.com/KubaLojewski) :wave:
