@@ -17,7 +17,7 @@ logo: /assets/images/logo.png
             <h2 class="blog-description"> 
                 {{ site.description }}.
             </h2>
-	    <a a class="about" href="{{ site.baseurl }}about">About Me</a>
+	    <a href="{{ site.baseurl }}about">About Me</a>
         </div>
     </div>
 </header>
