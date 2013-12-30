@@ -14,6 +14,8 @@ You can find me on some of social networks.
 * [Twitter](https://twitter.com/KubaLojewski) - this, on the other hand, I like a lot; a great concept, easy communication with strangers and online friends alike
 * [Steam](http://steamcommunity.com/id/dubus) - I play games here, oh snap
 
+Otherwise, feel free to e-mail me at [kuba@kubalojewski.pl](mailto:kuba@kubalojewski.pl)
+
 ### Colophon
 
 This website uses several amazing technologies by fantastic people, all of them free, most open source.
