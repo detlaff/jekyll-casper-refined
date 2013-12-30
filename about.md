@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/index.html
-title: Privacy Policy
+title: About Me
 ---
 
 **Kuba Łojewski**. I am a student of [international relations](http://wse.krakow.pl), living close to Kraków in Poland — a city I love very much, but there's a fair share of bad memories as well. My studies started in 2009 and in 2014 they are going to end, as I hopefully achieve the master's degree. The point of my thesis, at least in it's draft form, is to research whether or not Germany should lead changes in the EU much more than it does at the moment — being the real hegemon. This is a very interesting and controversial matter, as most people still remember Nazi crimes, especially in Poland, but there are a lot of reasons to believe that modern Germans are much different people than they were 70 years ago. European Union certainly could use a leader — not a kingdom above other peasant states, but a strong partner, an example to follow, a commander, if you wish. Should it be Germany? Confidently, by summer I will have a long paper on that, so keep in touch if you're interested.
