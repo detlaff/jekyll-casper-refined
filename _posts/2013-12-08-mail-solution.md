@@ -2,6 +2,7 @@
 layout: post
 title: "Hosting My Email With My Own Domain"
 date: 2013-12-08 18:26
+description: "Yesterday I wrote an article about blogging. Since I can host my Jekyll-generated website on GitHub (fast, reliable and secure) for free, the only problem I had left was to find an email solution that works with my domain, ideally for free."
 ---
 
 Yesterday I [wrote an article](http://kubalojewski.pl/articles/blogging-experience) about blogging. Since I can host my Jekyll-generated website on [GitHub](http://github.com/) (fast, reliable and secure) for free, the only problem I had left was to find an email solution that works with my domain, ideally for free. I have to cash out for the domain itself, this is a step you cannot skip, unless you want a *.tk* or something crappy like that. One can argue that using a free domain ruins credibility, which might be true, I don't really care. Either way, I got my name as a domain with my country's *.pl*, so I'm satisfied. Registration was dirt-cheap, renewal will be 5x as much but worth it I guess.

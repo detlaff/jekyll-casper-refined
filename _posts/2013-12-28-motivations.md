@@ -2,6 +2,7 @@
 layout: post
 title: "Motivations"
 date: 2013-12-28 18:26
+description: "I'm writing this as I should write my thesis, which is exactly why I picked this subject to talk about today. Motivation. Different people have different expectations, goals and ways to achieve them, but what drives them is important."
 ---
 
 I'm writing this as I should write my thesis, which is exactly why I picked this subject to talk about today. **Motivation**. Different people have different expectations, goals and ways to achieve them, but what drives them is important. Sometimes, though, there's nothing to lead us to victory and to success. How to deal with such a pickle?
