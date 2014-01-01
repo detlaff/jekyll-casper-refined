@@ -19,6 +19,12 @@
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:site_name" content="Kuba Łojewski | Blog">
 
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:image" content="{% if page.image %}{{ site.url }}/images/{{ page.image }}{% else %}{{ site.url }}/assets/images/blog-cover.jpg{% endif %}">
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="twitter:creator" content="@KubaLojewski">
+
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" type="text/css" href="/assets/css/screen.css" />
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Ubuntu:400,700,400italic&subset=latin,latin-ext" />
