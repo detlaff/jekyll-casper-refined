@@ -38,4 +38,6 @@ You might wonder why there's **Social Cards** in the title. Well, wonder no more
 
 I included Open Graph and Twitter Card support for my blog. What is the meaning of this for you? In theory, better social sharing experience. What **Open Graph** does is that whenever you share a link to my article on Facebook (as it's the most popular OG user), you should get a nice, short description and image in addition to the link itself. There are more in-depth ways to integrate a website with Facebook, but I'm not going to implement them — too much of a hassle for a blog this small. Moreover, more JavaScript would slow me down, and as you may have noticed, the loading speed of **kubalojewski.pl** is way faster than most other sites, thanks to solutions and technologies I use.
 
+<img src="/images/twittercard.jpg">
+
 **Twitter Card** (*summary* one) is also activated for this domain. The effect is similar to the **Open Graph**, but instead works with, well, Twitter. So share a link to my article there and everyone can get a little preview of what's inside just by clicking the tweet, without entering my website. **Nifty**.
