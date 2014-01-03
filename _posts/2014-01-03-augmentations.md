@@ -18,7 +18,7 @@ Augmented arms able to lift and throw a truck. Superhuman legs allowing to run f
 
 <img src="/images/jensensbuilding.jpg">
 
-The game presets some very believable scenarios, at least in terms of possible players on the interest board. We've got pro-augments, pro-human radicals fearing that tampering with human biology might prove catastrophic, and last but not least, Illuminati — read: politicians really into power, control and regulations over augs.
+The game presents some very believable scenarios, at least in terms of possible players on the interest board. We've got pro-augments, pro-human radicals fearing that tampering with human biology might prove catastrophic, and last but not least, Illuminati — read: politicians really into power, control and regulations over augs.
 
 **Adam Jensen**, the protagonist, is a very heavily augmented ex-SWAT who got himself into this war for power — war long, interesting and full of secrets. Since I am a sucker for a great stories, I won't tell you anything else. *Sorry*, play the game yourself.
 
