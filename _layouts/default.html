@@ -20,7 +20,7 @@
     <meta property="og:site_name" content="{{ site.name }}">
 
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:image" content="{% if page.image %}{{ site.url }}/images/{{ page.image }}{% else %}{{ site.url }}/assets/images/blog-cover.jpg{% endif %}">
+    <meta name="twitter:image" content="{% if page.image %}http://{{ site.url }}/images/{{ page.image }}{% else %}http://{{ site.url }}/assets/images/blog-cover.jpg{% endif %}">
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta name="twitter:creator" content="@KubaLojewski">
