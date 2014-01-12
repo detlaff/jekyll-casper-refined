@@ -30,8 +30,9 @@ As this is not a stovetop, then clearly, one has to boil the water. Be sure, tho
 
 Then, if you do it yourself, grind your beans (paper filter setting). I have yet to acquire a grinder, so shame on me, but I manage on pregrinded coffee and it isn't the worst thing in the world, so don't worry. Just pick a good brand, even when priced a bit higher.
 
-Next step is to connect the plunger to the chamber and turn the thing **upside down** (the inverted method I mentioned). Fill up with the coffee (I use one Aeropress scoop), then with hot water up to about a half, stir, then again water to the end. Stir after like 10 seconds, then place a filter cap (with a filter in it) up top, turn it around and push, very much like a syringe. Done.
-Cleaning up is even easier. For all visual oriented folks, here's a video demonstration, although bear in mind the girl is using the traditional technique and hotter water (as I said, to each his/her own).
+Next step is to connect the plunger to the chamber and turn the thing **upside down** (the inverted method I mentioned). Fill up with the coffee (I use one Aeropress scoop), then with hot water up to about a half, stir, then again water to the end. Stir after like 10 seconds, then place a filter cap (with a filter in it) up top, turn it around and push, very much like a syringe. Done. Cleaning up is even easier. 
+
+For all visual oriented folks, here's a video demonstration, although bear in mind the girl is using the traditional technique and hotter water (as I said, to each his/her own).
 
 <iframe src="//player.vimeo.com/video/80575765" width="500" height="281" frameborder="0"> </iframe>
 
