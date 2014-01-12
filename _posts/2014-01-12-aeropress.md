@@ -12,7 +12,7 @@ Finally, I got myself **Aeropress**, a coffee maker I wanted to buy for a few la
 
 ### So what is Aeropress, exactly?
 
-As you can see on the picture I've taken for you, there are just a few parts and the whole idea is remarkably simple. So, the **Aeropress** system components are as follows:
+As you can see in the picture I've taken for you, there are just a few parts and the whole idea is remarkably simple. So, the **Aeropress** system components are as follows:
 
 * chamber, holding the coffee itself
 * plunger with the rubber seal
