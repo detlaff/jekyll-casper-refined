@@ -2,11 +2,11 @@
 layout: post
 title: "Aeropress"
 date: 2014-01-12 16:12
-description: "Finally, I got myself Aeropress, a coffee maker I wanted to buy for a few last months, if not half a year. It was always highly praised on the internet and among some of my more serious coffee-addicted friends — valued even higher than classic stovetop mokas all generations of Italians know and love. As a product of 2005, invented & made in the US of A, it certainly is a modern way to brew your favorite morning drink."
+description: "Finally, I got myself Aeropress, a coffee maker I wanted to buy for a few months already, if not half a year. It was always highly praised on the internet and among some of my more serious coffee-addicted friends — valued even higher than classic stovetop mokas all generations of Italians know and love. As a product of 2005, invented & made in the US of A, it certainly is a modern way to brew your favorite morning drink."
 image: aeropress.jpg
 ---
 
-Finally, I got myself **Aeropress**, a coffee maker I wanted to buy for a few last months, if not half a year. It was always highly praised on the internet and among some of my more serious coffee-addicted friends — valued even higher than classic stovetop *mokas* all generations of Italians know and love. As a product of 2005, invented & made in the US of A, it certainly is a modern way to brew your favorite morning drink.
+Finally, I got myself **Aeropress**, a coffee maker I wanted to buy for a few months already, if not half a year. It was always highly praised on the internet and among some of my more serious coffee-addicted friends — valued even higher than classic stovetop *mokas* all generations of Italians know and love. As a product of 2005, invented & made in the US of A, it certainly is a modern way to brew your favorite morning drink.
 
 <img src="/images/aeropress.jpg">
 
