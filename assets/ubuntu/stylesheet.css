@@ -1,11 +1,11 @@
 @font-face {
-    font-family: 'Ubuntu';
+    font-family: 'ubuntubold';
     src: url('ubuntu-b-webfont.eot');
     src: url('ubuntu-b-webfont.eot?#iefix') format('embedded-opentype'),
          url('ubuntu-b-webfont.woff') format('woff'),
          url('ubuntu-b-webfont.ttf') format('truetype'),
          url('ubuntu-b-webfont.svg#ubuntubold') format('svg');
-    font-weight: 700;
+    font-weight: normal;
     font-style: normal;
 
 }
@@ -14,13 +14,13 @@
 
 
 @font-face {
-    font-family: 'Ubuntu';
+    font-family: 'ubunturegular';
     src: url('ubuntu-r-webfont.eot');
     src: url('ubuntu-r-webfont.eot?#iefix') format('embedded-opentype'),
          url('ubuntu-r-webfont.woff') format('woff'),
          url('ubuntu-r-webfont.ttf') format('truetype'),
          url('ubuntu-r-webfont.svg#ubunturegular') format('svg');
-    font-weight: 400;
+    font-weight: normal;
     font-style: normal;
 
 }
@@ -29,13 +29,13 @@
 
 
 @font-face {
-    font-family: 'Ubuntu';
+    font-family: 'ubuntuitalic';
     src: url('ubuntu-ri-webfont.eot');
     src: url('ubuntu-ri-webfont.eot?#iefix') format('embedded-opentype'),
          url('ubuntu-ri-webfont.woff') format('woff'),
          url('ubuntu-ri-webfont.ttf') format('truetype'),
          url('ubuntu-ri-webfont.svg#ubuntuitalic') format('svg');
-    font-weight: 400;
-    font-style: italic;
+    font-weight: normal;
+    font-style: normal;
 
 }
