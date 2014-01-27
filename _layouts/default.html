@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>   
+<head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
@@ -26,27 +26,10 @@
     <meta name="twitter:creator" content="@KubaLojewski">
 
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
-    <script type="text/javascript" src="/assets/js/asyncLoader.min.js"></script>
-    <script>
-        asyncLoader(
-            [
-                '/assets/css/screen.css',
-                '/assets/ubuntu/stylesheet.css',
-                '/assets/css/syntax.css',
-                '/assets/css/main.css',
-                '/assets/js/jquery-1.10.2.min.js',
-                '/assets/js/jquery.fitvids.js',
-                '/assets/js/index.js'
-            ],
-            {
-                'callback':function() {
-                    $('body').fadeIn( 500 );
-                    $('#test').delay(500).fadeIn();
-                    $('pre code').each(function(i, e) {hljs.highlightBlock(e)});
-                }
-            }
-        );
-    </script>
+    <link rel="stylesheet" type="text/css" href="/assets/css/screen.css"/>
+    <link rel="stylesheet" type="text/css" href="/assets/ubuntu/stylesheet.css"/>
+    <link rel="stylesheet" type="text/css" href="/assets/css/syntax.css"/>
+    <link rel="stylesheet" type="text/css" href="/assets/css/main.css"/>
 
 </head>
 <body class="home-template">
@@ -74,7 +57,10 @@
     var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
     g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
   })();
-    </script> 
+    </script>
+    <script async type="text/javascript" src="/assets/js/jquery-1.10.2.min.js"></script>
+    <script async type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
+    <script async type="text/javascript" src="/assets/js/index.js"></script>
 
 </body>
 </html>
