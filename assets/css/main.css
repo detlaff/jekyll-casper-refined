@@ -22,11 +22,6 @@ a.about:hover {
     color: #dd4814;
 }
 
-/* Text shadow */
-
-.site-head {text-shadow: 0 0 3px #000;
-}
-
 /* Author styling */
 .author {margin-bottom:1em;}
 .author header{
