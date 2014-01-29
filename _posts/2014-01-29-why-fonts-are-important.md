@@ -16,10 +16,10 @@ There are several prominent type classifications which warrant a better descript
 
 <img src="/images/serif.jpg">
 
-* Serif - named for the features at the ends of their strokes, as you can see above; these fonts are mostly used in print
-* Sans Serif - type without the classic *endings* mentioned above
-* Slab - font with blocky, thick serifs, useful for headings, logos and such, rarely for body text
-* Monospaced - this is the programmer's best friend, with each glyph designed to be the same width (originally used in typewriters because of technical limitations though)
+* **Serif** — named for the features at the ends of their strokes, as you can see above; these fonts are mostly used in print
+* **Sans Serif** — type without the classic *endings* mentioned above
+* **Slab** — font with blocky, thick serifs, useful for headings, logos and such, rarely for body text
+* **Monospaced** — this is the programmer's best friend, with each glyph designed to be the same width (originally used in typewriters because of technical limitations though)
 
 As you can see, there are some significant differences between them (and these are only the major font types, so to speak). There are thousands of typefaces available at the moment and new ones are being designed constantly.
 
