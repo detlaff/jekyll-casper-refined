@@ -8,9 +8,9 @@ image: serif.jpg
 
 I am obsessed with typography. We see various fonts everyday in our lives and I'd think most of us are very pragmatic when it comes to them. We see a text, be it in a book, advertisement, on a computer or a beer bottle. These words mean something, but they want to tell you the same whether it's **Arial**, **Helvetica** or **Times New Roman**. So why do we use different fonts, why not stick with one and employ it as a workhorse in every single situation?
 	
-### Classifications
-
 First of all, there are a lot of types to choose from, each fitting a different scenario. One would not use a font popular in comic books while writing a thesis (same thing the other way around). Advertisements adopted big, flashy fonts created to attract attention, you don't necessarily want the same effect in an official letter to your boss.
+
+### Classifications
 
 There are several prominent type classifications which warrant a better description:
 
