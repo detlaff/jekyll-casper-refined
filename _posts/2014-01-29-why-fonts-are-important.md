@@ -29,7 +29,7 @@ Each font makes reading text a bit different, the perception changes along with 
 
 <img src="/images/sourcesans.jpg">
 
-**Source Sans Pro** was designed by Adobe's Paul D. Hunt and it is a very beautiful, functional sans serif. It's worth mentioning not only because it's so good, but also a first open source font family from Adobe. Great for interfaces.
+**Source Sans Pro** was designed by Adobe's Paul D. Hunt and it is a very beautiful, functional sans serif. It's worth mentioning not only because it's so good, but is also a first open source font family from Adobe. Great for interfaces.
 
 <img src="/images/crimson.jpg">
 
