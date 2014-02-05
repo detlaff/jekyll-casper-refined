@@ -10,7 +10,7 @@ image: blogipad.jpg
 
 I also passed all of my exams this session up to this point, one more to go (I'm not counting a 2-page long, trivial paper I have to write by Valentine's Day). Let's not forget the main, *work-in-progress* degree thesis though.
 
-Then there's going to be a screening of the **FrackNation** documentary film in Warsaw next Thursday or Friday, courtesy of the Kosciuszko Institute, NGO I used to intern. Yours truly is attending, so expect a blog post from the event in case a lot of interesting stuff happens (which is likely, since a ton of *important people* are coming — government, embassies, corporations, you name it). This screening might come in handy later given my interest in **European Parliament's intership** I'm going to take part in this year. That's the plan, that is.
+Then there's going to be a screening of the **FrackNation** documentary film in Warsaw next Thursday or Friday, courtesy of the Kosciuszko Institute, NGO I used to intern. Yours truly is attending, so expect a blog post from the event in case a lot of interesting stuff happens (which is likely, since a ton of *important people* are coming — government, embassies, corporations, you name it). This screening might come in handy later given my interest in **European Parliament's intership** I'm going to take part in this year. That's the plan, at least.
 
 ---
 
