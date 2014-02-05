@@ -21,3 +21,9 @@ To the matter in the subject of this post then. Not much writing, but something 
 Also a gem of a chestnut.
 
 > If a man speaks his mind in a forest, and no woman hears him, is he still wrong?
+
+<script>
+$(function() {
+  $("article").fitVids({ customSelector: "iframe[src^='http://embed.ted.com/talks/']" });
+});
+</script>
